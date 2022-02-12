@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { Hello } from './hello.tsx'
+import Hello  from './hello'
 import foto from './foto.png'
 function HomePage () {
   return (
